@@ -1,0 +1,281 @@
+[
+    {
+        "name": "Adobe",
+        "links": [
+            "https://www.adobe.com",
+            "https://auth.services.adobe.com"
+        ]
+    },
+    {
+        "name": "Apple",
+        "links": [
+            "https://apple.com",
+            "https://appleid.apple.com",
+            "https://icloud.com"
+        ]
+    },
+    {
+        "name": "AWS",
+        "links": [
+            "https://aws.amazon.com"
+        ]
+    },
+    {
+        "name": "Chrome",
+        "links": [
+            "https://google.com",
+            "https://accounts.google.com/"
+        ]
+    },
+    {
+        "name": "Cloudflare",
+        "links": [
+            "https://cloudflare.com",
+            "https://dash.cloudflare.com"
+        ]
+    },
+    {
+        "name": "Discord",
+        "links": [
+            "https://discord.com"
+        ]
+    },
+    {
+        "name": "Docker",
+        "links": [
+            "https://docker.com",
+            "https://hub.docker.com"
+        ]
+    },
+    {
+        "name": "Edge",
+        "links": [
+            "https://www.microsoft.com",
+            "https://login.live.com"
+        ]
+    },
+    {
+        "name": "Facebook",
+        "links": [
+            "https://www.facebook.com"
+        ]
+    },
+    {
+        "name": "Figma",
+        "links": [
+            "https://www.figma.com"
+        ]
+    },
+    {
+        "name": "Firefox",
+        "links": [
+            "https://www.mozilla.org/"
+        ]
+    },
+    {
+        "name": "Game",
+        "links": []
+    },
+    {
+        "name": "Git",
+        "links": []
+    },
+    {
+        "name": "GitHub",
+        "links": [
+            "https://github.com"
+        ]
+    },
+    {
+        "name": "GitLab",
+        "links": [
+            "https://gitlab.com"
+        ]
+    },
+    {
+        "name": "Gmail",
+        "links": [
+            "https://google.com",
+            "https://mail.google.com",
+            "https://accounts.google.com"
+        ]
+    },
+    {
+        "name": "Godaddy",
+        "links": [
+            "https://godaddy.com",
+            "https://sso.godaddy.com"
+        ]
+    },
+    {
+        "name": "Google Cloud",
+        "links": [
+            "https://google.com",
+            "https://accounts.google.com",
+            "https://console.cloud.google.com"
+        ]
+    },
+    {
+        "name": "Google",
+        "links": [
+            "https://google.com",
+            "https://accounts.google.com"
+        ]
+    },
+    {
+        "name": "Instagram",
+        "links": [
+            "https://www.instagram.com"
+        ]
+    },
+    {
+        "name": "JetBrains",
+        "links": [
+            "https://www.jetbrains.com",
+            "https://account.jetbrains.com"
+        ]
+    },
+    {
+        "name": "Kwrap",
+        "links": [
+            "https://kwrap.app",
+            "https://web.kwrap.app"
+        ]
+    },
+    {
+        "name": "Mastodon",
+        "links": [
+            "https://mastodon.social"
+        ]
+    },
+    {
+        "name": "Microsoft",
+        "links": [
+            "https://www.microsoft.com",
+            "https://login.live.com"
+        ]
+    },
+    {
+        "name": "Navicat",
+        "links": [
+            "https://www.navicat.com"
+        ]
+    },
+    {
+        "name": "Netflix",
+        "links": [
+            "https://www.netflix.com"
+        ]
+    },
+    {
+        "name": "npm",
+        "links": [
+            "https://www.npmjs.com"
+        ]
+    },
+    {
+        "name": "Postman",
+        "links": [
+            "https://www.postman.com",
+            "https://identity.getpostman.com"
+        ]
+    },
+    {
+        "name": "QQ",
+        "links": [
+            "https://www.qq.com"
+        ]
+    },
+    {
+        "name": "Reddit",
+        "links": [
+            "https://www.reddit.com"
+        ]
+    },
+    {
+        "name": "Spotify",
+        "links": [
+            "https://www.spotify.com",
+            "https://accounts.spotify.com"
+        ]
+    },
+    {
+        "name": "Task",
+        "links": []
+    },
+    {
+        "name": "Telegram",
+        "links": [
+            "https://telegram.org",
+            "https://web.telegram.org/z/",
+            "https://web.telegram.org/k/"
+        ]
+    },
+    {
+        "name": "Terminal",
+        "links": []
+    },
+    {
+        "name": "TikTok",
+        "links": [
+            "https://www.tiktok.com"
+        ]
+    },
+    {
+        "name": "Twitter",
+        "links": [
+            "https://twitter.com"
+        ]
+    },
+    {
+        "name": "Vimeo",
+        "links": [
+            "https://vimeo.com/"
+        ]
+    },
+    {
+        "name": "YouTube",
+        "links": [
+            "https://youtube.com",
+            "https://google.com",
+            "https://accounts.google.com"
+        ]
+    },
+    {
+        "name": "哔哩哔哩",
+        "links": [
+            "https://www.bilibili.com"
+        ]
+    },
+    {
+        "name": "微信",
+        "links": [
+            "https://weixin.qq.com"
+        ]
+    },
+    {
+        "name": "蓝湖",
+        "links": [
+            "https://lanhuapp.com",
+            "https://sso.lanhuapp.com"
+        ]
+    },
+    {
+        "name": "豆瓣",
+        "links": [
+            "https://douban.com"
+        ]
+    },
+    {
+        "name": "钉钉",
+        "links": [
+            "https://www.dingtalk.com"
+        ]
+    },
+    {
+        "name": "阿里云盘",
+        "links": [
+            "https://www.aliyundrive.com"
+        ]
+    }
+]
